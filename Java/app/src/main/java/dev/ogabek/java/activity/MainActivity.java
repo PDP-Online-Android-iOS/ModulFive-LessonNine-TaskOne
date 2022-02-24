@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private ArrayList<Feed> getAllFeeds() {
+
         ArrayList<Story> stories = new ArrayList<>();
 
         stories.add(new Story());
